@@ -1,1 +1,68 @@
-
+{
+  "id": "san_martino_valle_caudina_av",
+  "name": "San Martino Valle Caudina",
+  "province": "AV",
+  "region": "Campania",
+  "lastUpdate": "2026-08-23",
+  "source": "Calendario raccolta comunale",
+  "schedule": [
+    {
+      "day": "MONDAY",
+      "waste": [
+        {
+          "name": "Umido",
+          "bagColor": "Sacchetto organico",
+          "note": "Rifiuti organici e scarti alimentari."
+        }
+      ]
+    },
+    {
+      "day": "TUESDAY",
+      "waste": [
+        {
+          "name": "Indifferenziata",
+          "bagColor": "Sacchetto indifferenziato",
+          "note": "Rifiuti non riciclabili."
+        }
+      ]
+    },
+    {
+      "day": "WEDNESDAY",
+      "waste": [
+        {
+          "name": "Carta e Cartone",
+          "bagColor": "Carta e cartone",
+          "note": "Carta, cartone e imballaggi puliti."
+        }
+      ]
+    },
+    {
+      "day": "THURSDAY",
+      "waste": [
+        {
+          "name": "Umido",
+          "bagColor": "Sacchetto organico",
+          "note": "Rifiuti organici e scarti alimentari."
+        }
+      ]
+    },
+    {
+      "day": "FRIDAY",
+      "waste": [
+        {
+          "name": "Plastica",
+          "bagColor": "Sacco plastica",
+          "note": "Plastica, imballaggi e materiali ammessi dal Comune."
+        }
+      ]
+    },
+    {
+      "day": "SATURDAY",
+      "waste": []
+    },
+    {
+      "day": "SUNDAY",
+      "waste": []
+    }
+  ]
+}
