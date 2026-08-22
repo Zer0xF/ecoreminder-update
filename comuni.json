@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "municipalities": [
+    {
+      "id": "san_martino_valle_caudina_av",
+      "name": "San Martino Valle Caudina",
+      "province": "AV",
+      "region": "Campania",
+      "scheduleUrl": "https://raw.githubusercontent.com/Zer0xF/ecoreminder-update/main/comuni/san_martino_valle_caudina_av.json"
+    }
+  ]
+}
