@@ -7,6 +7,13 @@
       "province": "AV",
       "region": "Campania",
       "scheduleUrl": "https://raw.githubusercontent.com/Zer0xF/ecoreminder-update/main/comuni/san_martino_valle_caudina_av.json"
+    },
+    {
+      "id": "cervinara_av",
+      "name": "Cervinara",
+      "province": "AV",
+      "region": "Campania",
+      "scheduleUrl": "https://raw.githubusercontent.com/Zer0xF/ecoreminder-update/refs/heads/main/comuni/cervinara_av.json"
     }
   ]
 }
