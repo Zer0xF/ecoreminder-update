@@ -1,1 +1,112 @@
-
+{
+  "id": "cervinara_av",
+  "name": "Cervinara",
+  "province": "AV",
+  "region": "Campania",
+  "lastUpdate": "2026-08-23",
+  "source": "Calendario raccolta Cervinara da immagine fornita",
+  "validity": {
+    "from": "2026-08-02",
+    "to": "2026-10-31",
+    "note": "Dal 2 agosto al 31 ottobre"
+  },
+  "exposureNote": "Conferire entro le ore 6:00 o la sera prima, a partire dalle ore 21:00. I rifiuti conferiti fuori orario non verranno ritirati.",
+  "schedule": [
+    {
+      "day": "MONDAY",
+      "waste": [
+        {
+          "name": "Organico",
+          "bagColor": "Sacchetto organico",
+          "note": "Scarti di cucina, avanzi di cibo e frutta, gusci di crostacei e molluschi, gusci d'uovo e di frutta secca, ossi, alimenti avariati, fondi di caffè e cialde in tessuto, filtri di tè, tovaglioli di carta unti, ceneri spente, fiori secchi piccole quantità da ambiente domestico, no giardino e orti.",
+          "time": "entro le ore 6:00 o la sera prima dalle 21:00"
+        },
+        {
+          "name": "Vetro",
+          "bagColor": "Contenitore vetro",
+          "note": "Bottiglie, barattoli e vasetti, flaconi di vetro vuoti e senza tappo.",
+          "time": "entro le ore 12:00"
+        }
+      ]
+    },
+    {
+      "day": "TUESDAY",
+      "waste": [
+        {
+          "name": "Carta e Cartone",
+          "bagColor": "Carta e cartone",
+          "note": "Giornali, riviste, imballaggi e scatole di carta e cartone, fotocopie e fogli vari, imballaggi in cartone, scatole per pizze poco sporche.",
+          "time": "utenze domestiche entro le ore 6:00 o la sera prima dalle 21:00; utenze commerciali entro le ore 12:00"
+        }
+      ]
+    },
+    {
+      "day": "WEDNESDAY",
+      "waste": [
+        {
+          "name": "Organico",
+          "bagColor": "Sacchetto organico",
+          "note": "Scarti di cucina, avanzi di cibo e frutta, gusci di crostacei e molluschi, gusci d'uovo e di frutta secca, ossi, alimenti avariati, fondi di caffè e cialde in tessuto, filtri di tè, tovaglioli di carta unti, ceneri spente, fiori secchi piccole quantità da ambiente domestico, no giardino e orti.",
+          "time": "entro le ore 6:00 o la sera prima dalle 21:00"
+        }
+      ]
+    },
+    {
+      "day": "THURSDAY",
+      "waste": [
+        {
+          "name": "Multimateriale",
+          "bagColor": "Sacco multimateriale",
+          "note": "Imballaggi in plastica vuoti, bottiglie, flaconi per detersivi, piatti e bicchieri monouso, buste, vaschette, polistirolo, pellicole, imballaggi in metallo vuoti, scatolette di metallo per alimenti, lattine, fogli e vaschette di alluminio, confezioni in tetra pak.",
+          "time": "entro le ore 6:00 o la sera prima dalle 21:00"
+        }
+      ]
+    },
+    {
+      "day": "FRIDAY",
+      "waste": [
+        {
+          "name": "Indifferenziato",
+          "bagColor": "Sacchetto indifferenziato",
+          "note": "Assorbenti, stracci sporchi, spugne, spazzolini, rasoi, siringhe con ago protetto da cappuccio, garze, oggetti di gomma, posate monouso, cicche di sigarette, carte plastificate, oggetti in ceramica, porcellana e terracotta, piccoli giocattoli non elettronici.",
+          "time": "entro le ore 6:00 o la sera prima dalle 21:00"
+        }
+      ]
+    },
+    {
+      "day": "SATURDAY",
+      "waste": [
+        {
+          "name": "Organico",
+          "bagColor": "Sacchetto organico",
+          "note": "Scarti di cucina, avanzi di cibo e frutta, gusci di crostacei e molluschi, gusci d'uovo e di frutta secca, ossi, alimenti avariati, fondi di caffè e cialde in tessuto, filtri di tè, tovaglioli di carta unti, ceneri spente, fiori secchi piccole quantità da ambiente domestico, no giardino e orti.",
+          "time": "entro le ore 6:00 o la sera prima dalle 21:00"
+        }
+      ]
+    },
+    {
+      "day": "SUNDAY",
+      "waste": []
+    }
+  ],
+  "otherWaste": [
+    {
+      "name": "Ingombranti e RAEE",
+      "note": "Per un massimo di 3 pezzi, verranno ritirati a domicilio a seguito di prenotazione.",
+      "phone": "800901628",
+      "url": "https://irpiniambiente.it/ritiro-ingombranti-e-raee/"
+    },
+    {
+      "name": "Batterie esauste",
+      "note": "Da conferire negli appositi raccoglitori presenti presso i rivenditori o nei luoghi individuati sul territorio comunale."
+    },
+    {
+      "name": "Farmaci scaduti",
+      "note": "Da conferire negli appositi raccoglitori presenti presso le farmacie."
+    }
+  ],
+  "warnings": [
+    "È vietato l'utilizzo di sacchi neri per il conferimento di tutti i rifiuti.",
+    "I rifiuti conferiti fuori orario non verranno ritirati."
+  ]
+}
